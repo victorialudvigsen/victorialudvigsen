@@ -3,7 +3,7 @@
 <h2>Projects:</h2>
 
 - <b>NAVN PÅ PROSJEKT</b>
-  - [navn](link til prosjekt)
+  - 
 
 
 
