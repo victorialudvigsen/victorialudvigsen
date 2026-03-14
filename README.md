@@ -1,13 +1,30 @@
-<h1>Hi, I'm Victoria! <br/><a href="https://github.com/victorialudvigsen">Programmer</a>, <a href="https://www.linkedin.com/in/victoria-ludvigsen-ba7295173/">Frontend Developer</a>
+# Hi, I'm Victoria 👋
 
-<h2>Projects:</h2>
+Frontend Developer  
+React • React Native • TypeScript • Mobile Apps
 
-- <b>NAVN PÅ PROSJEKT</b>
-  - 
+---
 
+## 🚀 Projects
 
+### 🐾 PetTrackr
+PetTrackr is a mobile application for tracking pet health, medication and activities. The app is currently under development and is not yet finished. New features will be added continuously.
 
-<h2> 🤳 Connect with me:</h2>
+**Tech stack**
+- React Native
+- Expo
+- TypeScript
+- Firebase
 
+🔗 GitHub Repository  
+https://github.com/victorialudvigsen/PetTrackr
 
+---
 
+## 🌐 Connect with me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/victoria-ludvigsen-ba7295173/
+
+💻 GitHub  
+https://github.com/victorialudvigsen
