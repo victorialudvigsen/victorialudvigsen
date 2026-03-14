@@ -5,7 +5,7 @@ React • React Native • TypeScript • Mobile Apps • Web Development
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 🐾 PetTrackr
 PetTrackr is a mobile application for tracking pet health, medication and activities. The app is currently under development and is not yet finished. New features will be added continuously.
@@ -26,5 +26,3 @@ https://github.com/victorialudvigsen/PetTrackr
 💼 LinkedIn  
 https://www.linkedin.com/in/victoria-ludvigsen-ba7295173/
 
-💻 GitHub  
-https://github.com/victorialudvigsen
