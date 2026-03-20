@@ -1,4 +1,4 @@
-# Hi, I'm Victoria 👋
+# Hi, I'm Victoria 
 
 Frontend Developer  
 React • React Native • TypeScript • Mobile Apps • Web Development 
