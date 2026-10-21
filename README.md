@@ -14,7 +14,7 @@ React • React Native • TypeScript • JavaScript • Python • Firebase
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 🐾 PetTrackr
 
